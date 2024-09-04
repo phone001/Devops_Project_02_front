@@ -15,14 +15,8 @@
    - 팀원2 : 게시판, 댓글, 대댓글, 좋아요 (BE)
 
 - 기술스택   
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
-<img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF"> 
-<img src="https://shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF"><img src="https://shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue"> 
 
 - 목표
    - 1 ) 유튜브 쇼츠 형태의 무한 스크롤 게시판 구현   
@@ -36,20 +30,30 @@
 ### 클라이언트
 ### 서버
 ### DB
+![2차 RDB](https://github.com/user-attachments/assets/b4a739d2-5340-41e0-9a1a-e07fe413fdb1)
+
 ## 주요기능
 ### 메인화면
+![2차 메인](https://github.com/user-attachments/assets/3703716a-8ff5-4362-95ec-2583500447be)
+
 - 렌덤 게시글 확인 및 게시글 작성 
 - 로그인 및 회원가입 이동
 
 ### 회원가입 및 로그인
+![2차 로그인](https://github.com/user-attachments/assets/1ed05a1c-4b3a-43fa-b34a-2bb9975f2065)
+![2차 회원가입](https://github.com/user-attachments/assets/adf2b9bd-6af3-4879-9d76-f49683393f71)
+
  - 이메일을 사용한 가입 및 인증
  - OAuth를 통한 사용자 검증 및 사용자 정보 조회
 
 ### 게시판
+![2차 게시판](https://github.com/user-attachments/assets/78ce0478-153f-43ed-b6dd-961a0c9fccdf)
+![2차 댓글](https://github.com/user-attachments/assets/440781af-c7f1-42f0-bb01-889ebc87ff8e)
+
  - 게시글 수정 및 삭제
-- 특정 게시글에 대한 좋아요 확인 및 설정
-- 댓글과 대댓글 작성 및 수정, 삭제 
-- 댓글과 대댓글에 대한 좋아요 설정
+ - 특정 게시글에 대한 좋아요 확인 및 설정
+ - 댓글과 대댓글 작성 및 수정, 삭제 
+ - 댓글과 대댓글에 대한 좋아요 설정
 
 ## 팀 내 역할
  ### 로그인
