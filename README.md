@@ -10,9 +10,9 @@
 - 기간 : 2024-07-18 ~ 2024-08-05 (2주)
 
 - 개발인원 : 3명
-   - 팀장  : 회원가입 및 로그인, 마이페이지 (FE,BE)
-   - 팀원1 : 게시판, 댓글, 대댓글, 좋아요 (FE)
-   - 팀원2 : 게시판, 댓글, 대댓글, 좋아요 (BE)
+   - 팀원1  : 회원가입 및 로그인, 마이페이지 (FE,BE)
+   - 팀원2 : 게시판, 댓글, 대댓글, 좋아요 (FE)
+   - 팀원3 : 게시판, 댓글, 대댓글, 좋아요 (BE)
 
 - 기술스택   
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
