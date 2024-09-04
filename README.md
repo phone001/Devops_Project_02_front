@@ -25,13 +25,18 @@
 
 - 백엔드 git : https://github.com/phone001/DevOps_Project_02.git
 
-## 구성
-### 전체
-### 클라이언트
-### 서버
-### DB
+## DB구성
 ![2차 RDB](https://github.com/user-attachments/assets/b4a739d2-5340-41e0-9a1a-e07fe413fdb1)
-
+ 테이블명 |  설명 |
+:------------: | :-----------: |
+ user | 사용자의 정보 |
+ post | 사용자가 작성한 게시글 |
+post_likes | 게시글에 대한 좋아요 |
+comment | 게시글에 대한 댓글|
+comment_likes | 댓글에 대한 좋아요|
+reply | 댓글에 대한 댓글|
+reply_likes | 대댓글에 대한 좋아요|
+ 
 ## 주요기능
 ### 메인화면
 ![2차 메인](https://github.com/user-attachments/assets/3703716a-8ff5-4362-95ec-2583500447be)
