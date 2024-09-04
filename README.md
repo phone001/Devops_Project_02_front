@@ -15,8 +15,8 @@
    - 팀원3 : 게시판, 댓글, 대댓글, 좋아요 (BE)
 
 - 기술스택   
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF"><img src="https://shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=FFF"> <img src="https://shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue"> 
 
 - 목표
    - 1 ) 유튜브 쇼츠 형태의 무한 스크롤 게시판 구현   
@@ -24,18 +24,6 @@
    - 3 ) 댓글, 대댓글, 좋아요 구현
 
 - 백엔드 git : https://github.com/phone001/DevOps_Project_02.git
-
-## DB구성
-![2차 RDB](https://github.com/user-attachments/assets/b4a739d2-5340-41e0-9a1a-e07fe413fdb1)
- 테이블명 |  설명 |
-:------------: | :-----------: |
- user | 사용자의 정보 |
- post | 사용자가 작성한 게시글 |
-post_likes | 게시글에 대한 좋아요 |
-comment | 게시글에 대한 댓글|
-comment_likes | 댓글에 대한 좋아요|
-reply | 댓글에 대한 댓글|
-reply_likes | 대댓글에 대한 좋아요|
  
 ## 주요기능
 ### 메인화면
@@ -59,6 +47,20 @@ reply_likes | 대댓글에 대한 좋아요|
  - 특정 게시글에 대한 좋아요 확인 및 설정
  - 댓글과 대댓글 작성 및 수정, 삭제 
  - 댓글과 대댓글에 대한 좋아요 설정
+
+
+## DB구성
+![2차 RDB](https://github.com/user-attachments/assets/b4a739d2-5340-41e0-9a1a-e07fe413fdb1)
+ 테이블명 |  설명 |
+:------------: | :-----------: |
+ user | 사용자의 정보 |
+ post | 사용자가 작성한 게시글 |
+post_likes | 게시글에 대한 좋아요 |
+comment | 게시글에 대한 댓글|
+comment_likes | 댓글에 대한 좋아요|
+reply | 댓글에 대한 댓글|
+reply_likes | 대댓글에 대한 좋아요|
+ 
 
 ## 팀 내 역할
  ### 로그인
