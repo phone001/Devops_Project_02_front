@@ -34,7 +34,8 @@
 
 ### 회원가입 및 로그인
 ![2차 로그인](https://github.com/user-attachments/assets/1ed05a1c-4b3a-43fa-b34a-2bb9975f2065)
-![2차 회원가입](https://github.com/user-attachments/assets/adf2b9bd-6af3-4879-9d76-f49683393f71)
+![스크린샷 2024-09-06 오후 2 33 52](https://github.com/user-attachments/assets/bb10ba31-b08f-4fb4-a74b-68b5e7e94d0f)
+
 
  - 이메일을 사용한 가입 및 인증
  - OAuth를 통한 사용자 검증 및 사용자 정보 조회
